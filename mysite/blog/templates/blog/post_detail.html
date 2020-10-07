@@ -1,0 +1,53 @@
+{% extends 'blog/base_generic.html' %}
+{% block content %}
+{% load static %}
+
+        <!-- Single Content -->
+        <div id="content" class="site-content center-relative">
+            <div class="single-post-wrapper content-1070 center-relative">
+
+                <article class="center-relative">
+                    <h1 class="entry-title">
+                        {{ post.title }}
+                    </h1>
+                    <div class="post-info content-660 center-relative">
+                        <div class="cat-links">
+                            <ul>
+                                <li><a href="#">
+                                     {% for c in post.category.all %}
+                                        {{ c }}
+                                        {% if not forloop.last %}
+                                            ,
+                                        {% endif %}
+                                    {% endfor %}
+                                </a></li>
+                            </ul>
+                        </div>
+                        <div class="entry-date published">{{ post.createDate }}</div>
+                        <div class="clear"></div>
+                    </div>
+
+                    {% if post.title_image %}
+                    <div class="post-graph">
+                        <img src="{{ post.title_image.url }}" alt="{{ post.title }}">
+                    </div>
+                    {% endif %}
+
+                    {% if post.title_music %}
+                    <div class="entry-content content-audio title-music">
+                        <audio src="{{ post.title_music.url}}" controls></audio>
+                    </div>
+                    {% endif %}
+
+                    <div class="entry-content">
+                        <div class="content-wrap content-660 center-relative">
+                            {{ post.content }}
+                            <div class="clear"></div>
+                        </div>
+                    </div>
+                    <div class="clear"></div>
+                </article>
+            </div>
+        </div>
+
+{% endblock %}

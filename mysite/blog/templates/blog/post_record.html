@@ -1,0 +1,21 @@
+{% extends 'blog/base_generic.html' %}
+{% block content%}
+{% load static %}
+
+        <!-- Single Content -->
+        <div id="content" class="site-content center-relative">
+            <div class="single-post-wrapper content-1070 center-relative">
+
+                <article class="center-relative">
+                    <h2>Recording</h2>
+                    <button>Execute Script</button> <hr>
+                    {% if data %}
+                    {{ data }}
+                    {% endif %}
+
+                </article>
+            </div>
+        </div>
+
+
+{% endblock %}
