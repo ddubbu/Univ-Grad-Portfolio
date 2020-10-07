@@ -69,14 +69,14 @@ def record(FILENAME):
     signal = np.fromstring(signal, dtype=np.int16)
 
     # 시간 흐름에 따른 그래프를 그리기 위한 부분
-    Time = np.linspace(0,len(signal)/RATE, num=len(signal))
-
-    fig1 = plt.figure()
-    plt.title('Voice Signal Wave...')
-    plt.plot(Time, signal)
-    plt.show()
-    plt.close(fig1)  # 닫아줘야하는 번거로움
-    print("record end!!")
+    #Time = np.linspace(0,len(signal)/RATE, num=len(signal))
+    #
+    # fig1 = plt.figure()
+    # plt.title('Voice Signal Wave...')
+    # plt.plot(Time, signal)
+    # plt.show()
+    # plt.close(fig1)  # 닫아줘야하는 번거로움
+    # print("record end!!")
 
     return WAVE_OUTPUT_FILENAME
 
@@ -100,6 +100,19 @@ def match_1s(data):
     return data
 
 
+def plot_mfcc(RECORD_FILE_NAME=None, mode=None): # mfcc,
+    plt.figure()
+    sig, sr = librosa.load(RECORD_FILE_NAME)
+    mfcc = feature_mfcc(RECORD_FILE_NAME, mode)
+    D = librosa.amplitude_to_db(mfcc, ref=np.max)
+    librosa.display.specshow(D, x_axis=None, sr=sr,)  # y 축은 모르겠당 y_coords=13
+    plt.colorbar(format='%+2.0f dB')
+    plt.title('MFCC')
+
+    plt.xlabel('Tx [frame]')
+    plt.ylabel('MFCC Coefficeints')
+    #plt.colorbar()
+    plt.show()
 
 def feature_mfcc(RECORD_FILE_NAME, mode=None):
 

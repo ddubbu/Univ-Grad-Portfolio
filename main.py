@@ -27,6 +27,7 @@ FILE_NAME = "dev_file"
 RECORD_FILE_PATH = record(FILE_NAME)
 
 ## others
+#RECORD_FILE_PATH = './record_data/연구필요/10s_성공_stop_seven_cat.wav'
 #RECORD_FILE_PATH = './record_data/연구필요/10s_one_stop_two.wav'  # peack_detect 오류
 #RECORD_FILE_PATH = './record_data/연구필요/up_high_probability.wav'
 
@@ -34,8 +35,9 @@ print("ACTIVATE KEYWORD 인식 중......")
 ex_FILE_PATH = KWS(RECORD_FILE_PATH, KWS_model)
 
 threshold, other_words = activation(ex_FILE_PATH)
-print("threshold:", threshold)  # 천천히 말하면 2음절로 분리되어 up으로 인식함.. >> 빠르게 말해
+print("stop probability for threshold:", threshold)  # 천천히 말하면 2음절로 분리되어 up으로 인식함.. >> 빠르게 말해
 print("up probabilty:", other_words[26])
+print("other:", other_words)
 
 if threshold > 0.6 : #and other_words[26]:
     print("there is stop word, ACTIVATE")

@@ -1,0 +1,706 @@
+C:\Users\hello\anaconda3\envs\myself_KWS\python.exe "C:/0. Git/Univ-Grad-Portfolio/models/train/KWS/generate_train_data.py"
+C:\Users\hello\anaconda3\envs\myself_KWS\lib\site-packages\pydub\utils.py:170: RuntimeWarning: Couldn't find ffmpeg or avconv - defaulting to ffmpeg, but may not work
+  warn("Couldn't find ffmpeg or avconv - defaulting to ffmpeg, but may not work", RuntimeWarning)
+C:/0. Git/speech_commands_v0.01/cat
+[938]
+C:/0. Git/speech_commands_v0.01/four
+[147]
+C:/0. Git/speech_commands_v0.01/four
+[1825]
+C:/0. Git/speech_commands_v0.01/three
+[2309]
+C:/0. Git/speech_commands_v0.01/on
+[911]
+C:/0. Git/speech_commands_v0.01/up
+[2145]
+C:/0. Git/speech_commands_v0.01/marvin
+[1525]
+C:/0. Git/speech_commands_v0.01/three
+[889]
+C:/0. Git/speech_commands_v0.01/three
+[1471]
+C:/0. Git/speech_commands_v0.01/down
+[252]
+C:/0. Git/speech_commands_v0.01/on
+[748]
+C:/0. Git/speech_commands_v0.01/two
+[1189]
+C:/0. Git/speech_commands_v0.01/yes
+[1711]
+C:/0. Git/speech_commands_v0.01/dog
+[22]
+C:/0. Git/speech_commands_v0.01/zero
+[1069]
+C:/0. Git/speech_commands_v0.01/dog
+[1697]
+C:/0. Git/speech_commands_v0.01/nine
+[2199]
+C:/0. Git/speech_commands_v0.01/left
+[1971]
+C:/0. Git/speech_commands_v0.01/on
+[1870]
+C:/0. Git/speech_commands_v0.01/no
+[1209]
+C:/0. Git/speech_commands_v0.01/seven
+[955]
+C:/0. Git/speech_commands_v0.01/eight
+[143]
+C:/0. Git/speech_commands_v0.01/four
+[508]
+C:/0. Git/speech_commands_v0.01/two
+[600]
+C:/0. Git/speech_commands_v0.01/bird
+[1203]
+C:/0. Git/speech_commands_v0.01/tree
+[1613]
+C:/0. Git/speech_commands_v0.01/happy
+[1415]
+C:/0. Git/speech_commands_v0.01/one
+[1670]
+C:/0. Git/speech_commands_v0.01/three
+[855]
+C:/0. Git/speech_commands_v0.01/house
+[89]
+C:/0. Git/speech_commands_v0.01/four
+[539]
+C:/0. Git/speech_commands_v0.01/tree
+[1383]
+C:/0. Git/speech_commands_v0.01/six
+[894]
+C:/0. Git/speech_commands_v0.01/marvin
+[965]
+C:/0. Git/speech_commands_v0.01/zero
+[1459]
+C:/0. Git/speech_commands_v0.01/happy
+[986]
+C:/0. Git/speech_commands_v0.01/tree
+[477]
+C:/0. Git/speech_commands_v0.01/wow
+[672]
+C:/0. Git/speech_commands_v0.01/two
+[234]
+C:/0. Git/speech_commands_v0.01/down
+[1163]
+C:/0. Git/speech_commands_v0.01/six
+[615]
+C:/0. Git/speech_commands_v0.01/no
+[1374]
+C:/0. Git/speech_commands_v0.01/one
+[1759]
+C:/0. Git/speech_commands_v0.01/no
+[2028]
+C:/0. Git/speech_commands_v0.01/yes
+[1777]
+C:/0. Git/speech_commands_v0.01/bed
+[137]
+C:/0. Git/speech_commands_v0.01/bird
+[1571]
+C:/0. Git/speech_commands_v0.01/nine
+[2033]
+C:/0. Git/speech_commands_v0.01/bed
+[1711]
+C:/0. Git/speech_commands_v0.01/left
+[1518]
+C:/0. Git/speech_commands_v0.01/eight
+[1090]
+C:/0. Git/speech_commands_v0.01/one
+[353]
+C:/0. Git/speech_commands_v0.01/cat
+[1221]
+C:/0. Git/speech_commands_v0.01/five
+[1397]
+C:/0. Git/speech_commands_v0.01/tree
+[1537]
+C:/0. Git/speech_commands_v0.01/marvin
+[1166]
+C:/0. Git/speech_commands_v0.01/wow
+[426]
+C:/0. Git/speech_commands_v0.01/marvin
+[165]
+C:/0. Git/speech_commands_v0.01/wow
+[1089]
+C:/0. Git/speech_commands_v0.01/zero
+[89]
+C:/0. Git/speech_commands_v0.01/six
+[670]
+C:/0. Git/speech_commands_v0.01/three
+[1850]
+C:/0. Git/speech_commands_v0.01/sheila
+[1081]
+C:/0. Git/speech_commands_v0.01/happy
+[644]
+C:/0. Git/speech_commands_v0.01/nine
+[2357]
+C:/0. Git/speech_commands_v0.01/left
+[1219]
+C:/0. Git/speech_commands_v0.01/sheila
+[176]
+C:/0. Git/speech_commands_v0.01/sheila
+[446]
+C:/0. Git/speech_commands_v0.01/seven
+[363]
+C:/0. Git/speech_commands_v0.01/two
+[672]
+C:/0. Git/speech_commands_v0.01/one
+[1567]
+C:/0. Git/speech_commands_v0.01/go
+[1262]
+C:/0. Git/speech_commands_v0.01/right
+[1676]
+C:/0. Git/speech_commands_v0.01/three
+[507]
+C:/0. Git/speech_commands_v0.01/four
+[539]
+C:/0. Git/speech_commands_v0.01/no
+[1524]
+C:/0. Git/speech_commands_v0.01/one
+[1989]
+C:/0. Git/speech_commands_v0.01/tree
+[182]
+C:/0. Git/speech_commands_v0.01/two
+[1035]
+C:/0. Git/speech_commands_v0.01/yes
+[103]
+C:/0. Git/speech_commands_v0.01/nine
+[1177]
+C:/0. Git/speech_commands_v0.01/no
+[29]
+C:/0. Git/speech_commands_v0.01/five
+[2343]
+C:/0. Git/speech_commands_v0.01/eight
+[1214]
+C:/0. Git/speech_commands_v0.01/six
+[735]
+C:/0. Git/speech_commands_v0.01/wow
+[359]
+C:/0. Git/speech_commands_v0.01/three
+[1692]
+C:/0. Git/speech_commands_v0.01/no
+[2110]
+C:/0. Git/speech_commands_v0.01/sheila
+[1489]
+C:/0. Git/speech_commands_v0.01/up
+[1175]
+C:/0. Git/speech_commands_v0.01/no
+[1452]
+C:/0. Git/speech_commands_v0.01/up
+[164]
+C:/0. Git/speech_commands_v0.01/no
+[1503]
+C:/0. Git/speech_commands_v0.01/cat
+[1538]
+C:/0. Git/speech_commands_v0.01/happy
+[0]
+C:/0. Git/speech_commands_v0.01/no
+[65]
+C:/0. Git/speech_commands_v0.01/house
+[349]
+C:/0. Git/speech_commands_v0.01/three
+[1287]
+C:/0. Git/speech_commands_v0.01/marvin
+[1674]
+C:/0. Git/speech_commands_v0.01/down
+[1668]
+file num: train0
+activate insert time : (4964, 5963)
+negative insert time : (8470, 9469)
+negative insert time : (769, 1604)
+File was saved in ./generate_data directory.
+file num: train1
+activate insert time : (8507, 9506)
+negative insert time : (5781, 6780)
+negative insert time : (2060, 3059)
+File was saved in ./generate_data directory.
+file num: train2
+activate insert time : (8255, 9254)
+negative insert time : (5017, 6016)
+negative insert time : (2832, 3831)
+File was saved in ./generate_data directory.
+file num: train3
+activate insert time : (2561, 3560)
+negative insert time : (1087, 2086)
+negative insert time : (5596, 6595)
+File was saved in ./generate_data directory.
+file num: train4
+activate insert time : (4858, 5857)
+negative insert time : (1153, 2152)
+negative insert time : (2307, 3306)
+File was saved in ./generate_data directory.
+file num: train5
+activate insert time : (636, 1635)
+negative insert time : (4446, 5445)
+negative insert time : (7452, 8451)
+File was saved in ./generate_data directory.
+file num: train6
+activate insert time : (3519, 4518)
+negative insert time : (8946, 9945)
+negative insert time : (4635, 5634)
+File was saved in ./generate_data directory.
+file num: train7
+activate insert time : (5945, 6944)
+negative insert time : (4042, 5041)
+negative insert time : (2780, 3779)
+File was saved in ./generate_data directory.
+file num: train8
+activate insert time : (6803, 7741)
+negative insert time : (2794, 3793)
+negative insert time : (8126, 9125)
+File was saved in ./generate_data directory.
+file num: train9
+activate insert time : (6028, 7027)
+negative insert time : (2804, 3803)
+negative insert time : (8365, 9364)
+File was saved in ./generate_data directory.
+file num: train10
+activate insert time : (7409, 8408)
+negative insert time : (2791, 3790)
+negative insert time : (1424, 2423)
+File was saved in ./generate_data directory.
+file num: train11
+activate insert time : (705, 1704)
+negative insert time : (7258, 8257)
+negative insert time : (2437, 3436)
+File was saved in ./generate_data directory.
+file num: train12
+activate insert time : (2188, 3187)
+negative insert time : (835, 1834)
+negative insert time : (3933, 4932)
+File was saved in ./generate_data directory.
+file num: train13
+activate insert time : (3655, 4583)
+negative insert time : (6681, 7680)
+negative insert time : (48, 1047)
+File was saved in ./generate_data directory.
+file num: train14
+activate insert time : (3385, 4384)
+negative insert time : (138, 1137)
+negative insert time : (8081, 8962)
+File was saved in ./generate_data directory.
+file num: train15
+activate insert time : (3634, 4633)
+negative insert time : (6177, 7176)
+negative insert time : (8910, 9909)
+File was saved in ./generate_data directory.
+file num: train16
+activate insert time : (1479, 2478)
+negative insert time : (8269, 9268)
+negative insert time : (6583, 7582)
+File was saved in ./generate_data directory.
+file num: train17
+activate insert time : (1514, 2494)
+negative insert time : (6186, 7185)
+negative insert time : (61, 942)
+File was saved in ./generate_data directory.
+file num: train18
+activate insert time : (4513, 5512)
+negative insert time : (7602, 8601)
+negative insert time : (2735, 3734)
+File was saved in ./generate_data directory.
+file num: train19
+activate insert time : (4432, 5431)
+negative insert time : (206, 1205)
+negative insert time : (6741, 7740)
+File was saved in ./generate_data directory.
+file num: train20
+activate insert time : (118, 1117)
+negative insert time : (4133, 5132)
+negative insert time : (1403, 2402)
+File was saved in ./generate_data directory.
+file num: train21
+activate insert time : (7723, 8722)
+negative insert time : (8823, 9822)
+negative insert time : (4100, 5099)
+File was saved in ./generate_data directory.
+file num: train22
+activate insert time : (8744, 9743)
+negative insert time : (2871, 3870)
+negative insert time : (7173, 8172)
+File was saved in ./generate_data directory.
+file num: train23
+activate insert time : (6628, 7627)
+negative insert time : (7676, 8675)
+negative insert time : (1206, 2205)
+File was saved in ./generate_data directory.
+file num: train24
+activate insert time : (3579, 4578)
+negative insert time : (4755, 5590)
+negative insert time : (2504, 3503)
+File was saved in ./generate_data directory.
+file num: train25
+activate insert time : (3276, 4275)
+negative insert time : (8015, 9014)
+negative insert time : (4676, 5675)
+File was saved in ./generate_data directory.
+file num: train26
+activate insert time : (5967, 6966)
+negative insert time : (1847, 2846)
+negative insert time : (7860, 8859)
+File was saved in ./generate_data directory.
+file num: train27
+activate insert time : (2184, 3183)
+negative insert time : (5522, 6521)
+negative insert time : (4154, 5153)
+File was saved in ./generate_data directory.
+file num: train28
+activate insert time : (1828, 2827)
+negative insert time : (7925, 8924)
+negative insert time : (4541, 5540)
+File was saved in ./generate_data directory.
+file num: train29
+activate insert time : (2465, 3464)
+negative insert time : (941, 1940)
+negative insert time : (7282, 8281)
+File was saved in ./generate_data directory.
+file num: train30
+activate insert time : (706, 1705)
+negative insert time : (3302, 4301)
+negative insert time : (7003, 8002)
+File was saved in ./generate_data directory.
+file num: train31
+activate insert time : (6966, 7965)
+negative insert time : (8908, 9907)
+negative insert time : (2245, 3244)
+File was saved in ./generate_data directory.
+file num: train32
+activate insert time : (8031, 9030)
+negative insert time : (2911, 3910)
+negative insert time : (4846, 5845)
+File was saved in ./generate_data directory.
+file num: train33
+activate insert time : (4933, 5932)
+negative insert time : (154, 1153)
+negative insert time : (6718, 7717)
+File was saved in ./generate_data directory.
+file num: train34
+activate insert time : (731, 1730)
+negative insert time : (5582, 6581)
+negative insert time : (2285, 3284)
+File was saved in ./generate_data directory.
+file num: train35
+activate insert time : (2563, 3562)
+negative insert time : (7488, 8487)
+negative insert time : (702, 1701)
+File was saved in ./generate_data directory.
+file num: train36
+activate insert time : (2348, 3347)
+negative insert time : (4336, 5335)
+negative insert time : (7620, 8619)
+File was saved in ./generate_data directory.
+file num: train37
+activate insert time : (633, 1632)
+negative insert time : (6520, 7519)
+negative insert time : (8489, 9488)
+File was saved in ./generate_data directory.
+file num: train38
+activate insert time : (7439, 8438)
+negative insert time : (1154, 2153)
+negative insert time : (5475, 6474)
+File was saved in ./generate_data directory.
+file num: train39
+activate insert time : (7809, 8808)
+negative insert time : (2082, 3081)
+negative insert time : (3409, 4408)
+File was saved in ./generate_data directory.
+file num: train40
+activate insert time : (5271, 6270)
+negative insert time : (8397, 9396)
+negative insert time : (6751, 7750)
+File was saved in ./generate_data directory.
+file num: train41
+activate insert time : (5832, 6831)
+negative insert time : (4143, 5142)
+negative insert time : (1075, 2074)
+File was saved in ./generate_data directory.
+file num: train42
+activate insert time : (4316, 5315)
+negative insert time : (5473, 6472)
+negative insert time : (6700, 7699)
+File was saved in ./generate_data directory.
+file num: train43
+activate insert time : (271, 1270)
+negative insert time : (5602, 6601)
+negative insert time : (4003, 5002)
+File was saved in ./generate_data directory.
+file num: train44
+activate insert time : (1532, 2531)
+negative insert time : (4246, 5245)
+negative insert time : (8952, 9951)
+File was saved in ./generate_data directory.
+file num: train45
+activate insert time : (7177, 8176)
+negative insert time : (2715, 3714)
+negative insert time : (4949, 5948)
+File was saved in ./generate_data directory.
+file num: train46
+activate insert time : (4360, 5359)
+negative insert time : (7297, 8296)
+negative insert time : (2273, 3272)
+File was saved in ./generate_data directory.
+file num: train47
+activate insert time : (7137, 8136)
+negative insert time : (2858, 3857)
+negative insert time : (1405, 2404)
+File was saved in ./generate_data directory.
+file num: train48
+activate insert time : (330, 1329)
+negative insert time : (6152, 7151)
+negative insert time : (4813, 5812)
+File was saved in ./generate_data directory.
+file num: train49
+activate insert time : (7270, 8269)
+negative insert time : (5321, 6320)
+negative insert time : (3937, 4936)
+File was saved in ./generate_data directory.
+file num: train50
+activate insert time : (5286, 6285)
+negative insert time : (7424, 8423)
+negative insert time : (1532, 2413)
+File was saved in ./generate_data directory.
+file num: train51
+activate insert time : (8520, 9519)
+negative insert time : (512, 1511)
+negative insert time : (6725, 7724)
+File was saved in ./generate_data directory.
+file num: train52
+activate insert time : (7015, 8014)
+negative insert time : (3067, 4066)
+negative insert time : (389, 1388)
+File was saved in ./generate_data directory.
+file num: train53
+activate insert time : (5212, 6211)
+negative insert time : (7156, 8155)
+negative insert time : (8496, 9424)
+File was saved in ./generate_data directory.
+file num: train54
+activate insert time : (5543, 6542)
+negative insert time : (724, 1723)
+negative insert time : (6641, 7640)
+File was saved in ./generate_data directory.
+file num: train55
+activate insert time : (4546, 5545)
+negative insert time : (6565, 7564)
+negative insert time : (8559, 9558)
+File was saved in ./generate_data directory.
+file num: train56
+activate insert time : (2671, 3670)
+negative insert time : (4379, 5378)
+negative insert time : (1717, 2356)
+File was saved in ./generate_data directory.
+file num: train57
+activate insert time : (5438, 6437)
+negative insert time : (8192, 9191)
+negative insert time : (2106, 3105)
+File was saved in ./generate_data directory.
+file num: train58
+activate insert time : (2721, 3720)
+negative insert time : (3991, 4990)
+negative insert time : (6680, 7679)
+File was saved in ./generate_data directory.
+file num: train59
+activate insert time : (1079, 2078)
+negative insert time : (3427, 4426)
+negative insert time : (8297, 9296)
+File was saved in ./generate_data directory.
+file num: train60
+activate insert time : (1722, 2721)
+negative insert time : (297, 1296)
+negative insert time : (5659, 6658)
+File was saved in ./generate_data directory.
+file num: train61
+activate insert time : (4578, 5577)
+negative insert time : (755, 1754)
+negative insert time : (6692, 7691)
+File was saved in ./generate_data directory.
+file num: train62
+activate insert time : (7576, 8575)
+negative insert time : (5439, 6438)
+negative insert time : (953, 1952)
+File was saved in ./generate_data directory.
+file num: train63
+activate insert time : (3489, 4488)
+negative insert time : (2062, 3061)
+negative insert time : (6971, 7970)
+File was saved in ./generate_data directory.
+file num: train64
+activate insert time : (7943, 8942)
+negative insert time : (4155, 5036)
+negative insert time : (1290, 2289)
+File was saved in ./generate_data directory.
+file num: train65
+activate insert time : (4957, 5956)
+negative insert time : (3738, 4737)
+negative insert time : (8660, 9495)
+File was saved in ./generate_data directory.
+file num: train66
+activate insert time : (592, 1591)
+negative insert time : (6912, 7911)
+negative insert time : (2417, 3416)
+File was saved in ./generate_data directory.
+file num: train67
+activate insert time : (5682, 6681)
+negative insert time : (4572, 5571)
+negative insert time : (7901, 8900)
+File was saved in ./generate_data directory.
+file num: train68
+activate insert time : (8168, 9167)
+negative insert time : (105, 1104)
+negative insert time : (1944, 2943)
+File was saved in ./generate_data directory.
+file num: train69
+activate insert time : (1985, 2984)
+negative insert time : (727, 1726)
+negative insert time : (3547, 4546)
+File was saved in ./generate_data directory.
+file num: train70
+activate insert time : (1189, 2188)
+negative insert time : (6136, 7135)
+negative insert time : (8699, 9698)
+File was saved in ./generate_data directory.
+file num: train71
+activate insert time : (5671, 6670)
+negative insert time : (601, 1600)
+negative insert time : (1966, 2965)
+File was saved in ./generate_data directory.
+file num: train72
+activate insert time : (5449, 6448)
+negative insert time : (1993, 2992)
+negative insert time : (8469, 9468)
+File was saved in ./generate_data directory.
+file num: train73
+activate insert time : (4454, 5453)
+negative insert time : (159, 1158)
+negative insert time : (1574, 2455)
+File was saved in ./generate_data directory.
+file num: train74
+activate insert time : (7852, 8851)
+negative insert time : (6069, 6950)
+negative insert time : (2146, 3145)
+File was saved in ./generate_data directory.
+file num: train75
+activate insert time : (3181, 4180)
+negative insert time : (5846, 6845)
+negative insert time : (8394, 9393)
+File was saved in ./generate_data directory.
+file num: train76
+activate insert time : (1240, 2239)
+negative insert time : (4643, 5642)
+negative insert time : (7377, 8376)
+File was saved in ./generate_data directory.
+file num: train77
+activate insert time : (2511, 3449)
+negative insert time : (8812, 9811)
+negative insert time : (4437, 5436)
+File was saved in ./generate_data directory.
+file num: train78
+activate insert time : (1157, 2156)
+negative insert time : (2434, 3433)
+negative insert time : (6371, 7370)
+File was saved in ./generate_data directory.
+file num: train79
+activate insert time : (894, 1893)
+negative insert time : (4382, 5381)
+negative insert time : (6836, 7835)
+File was saved in ./generate_data directory.
+file num: train80
+activate insert time : (183, 1182)
+negative insert time : (8467, 9466)
+negative insert time : (5598, 6597)
+File was saved in ./generate_data directory.
+file num: train81
+activate insert time : (1214, 2213)
+negative insert time : (3085, 4084)
+negative insert time : (6404, 7403)
+File was saved in ./generate_data directory.
+file num: train82
+activate insert time : (299, 1298)
+negative insert time : (1679, 2678)
+negative insert time : (6147, 7146)
+File was saved in ./generate_data directory.
+file num: train83
+activate insert time : (8644, 9643)
+negative insert time : (579, 1578)
+negative insert time : (4291, 5290)
+File was saved in ./generate_data directory.
+file num: train84
+activate insert time : (8745, 9744)
+negative insert time : (3077, 3912)
+negative insert time : (5582, 6581)
+File was saved in ./generate_data directory.
+file num: train85
+activate insert time : (2022, 3021)
+negative insert time : (6072, 7071)
+negative insert time : (3973, 4972)
+File was saved in ./generate_data directory.
+file num: train86
+activate insert time : (7634, 8633)
+negative insert time : (183, 1182)
+negative insert time : (5367, 6366)
+File was saved in ./generate_data directory.
+file num: train87
+activate insert time : (4991, 5990)
+negative insert time : (6638, 7637)
+negative insert time : (545, 1544)
+File was saved in ./generate_data directory.
+file num: train88
+activate insert time : (2780, 3779)
+negative insert time : (400, 1399)
+negative insert time : (5367, 6366)
+File was saved in ./generate_data directory.
+file num: train89
+activate insert time : (4665, 5664)
+negative insert time : (5776, 6775)
+negative insert time : (6875, 7874)
+File was saved in ./generate_data directory.
+file num: train90
+activate insert time : (1569, 2568)
+negative insert time : (7151, 8150)
+negative insert time : (8566, 9565)
+File was saved in ./generate_data directory.
+file num: train91
+activate insert time : (7956, 8955)
+negative insert time : (4862, 5861)
+negative insert time : (3226, 4225)
+File was saved in ./generate_data directory.
+file num: train92
+activate insert time : (7617, 8616)
+negative insert time : (282, 1281)
+negative insert time : (6583, 7582)
+File was saved in ./generate_data directory.
+file num: train93
+activate insert time : (1688, 2687)
+negative insert time : (5968, 6967)
+negative insert time : (3107, 4106)
+File was saved in ./generate_data directory.
+file num: train94
+activate insert time : (6733, 7732)
+negative insert time : (5304, 6303)
+negative insert time : (4133, 5132)
+File was saved in ./generate_data directory.
+file num: train95
+activate insert time : (7733, 8732)
+negative insert time : (1876, 2875)
+negative insert time : (5793, 6674)
+File was saved in ./generate_data directory.
+file num: train96
+activate insert time : (5633, 6632)
+negative insert time : (6961, 7960)
+negative insert time : (2778, 3777)
+File was saved in ./generate_data directory.
+file num: train97
+activate insert time : (6667, 7666)
+negative insert time : (143, 1142)
+negative insert time : (2027, 3026)
+File was saved in ./generate_data directory.
+file num: train98
+activate insert time : (2840, 3839)
+negative insert time : (1523, 2522)
+negative insert time : (6294, 7293)
+File was saved in ./generate_data directory.
+file num: train99
+activate insert time : (6092, 7091)
+negative insert time : (1002, 2001)
+negative insert time : (4989, 5988)
+File was saved in ./generate_data directory.
+The end of making # of 100 new training audios
+
+Process finished with exit code 0

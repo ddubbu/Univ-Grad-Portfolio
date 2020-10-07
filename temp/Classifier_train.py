@@ -1,16 +1,13 @@
 '''import libraries'''
-import torch
-import torch.nn as nn
 import torch.nn.functional as F
 import torch.optim as optim
 from torchvision.transforms import transforms  # 1 batch = (1, 784)
 from torch.autograd import Variable
-from torch.utils.data.dataloader import DataLoader
 from matplotlib import pyplot as plt
 import numpy as np
 #from torchsummary import summary
 
-from model.ResNet import *
+from model.Classifier.ResNet import *
 
 '''choose torch.device'''
 print("is there cuda? :",  torch.cuda.is_available())
@@ -18,7 +15,7 @@ device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 print(device)
 
 '''data load'''
-X_train, X_test, Y_train, Y_test = np.load("./data/30words_num=30000.npy", allow_pickle=True)
+X_train, X_test, Y_train, Y_test = np.load("../data/30words_num=30000.npy", allow_pickle=True)
 
 '''data rehspae and normalize'''
 Y_train = np.array([Y_train])  # (1, 27000, 30)

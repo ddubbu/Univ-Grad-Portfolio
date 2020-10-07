@@ -2,24 +2,18 @@ from model.Classifier.ResNet import *
 from model.KWS.GRU_2layer import *
 from wav_utils import *
 import os
-
+from torch.autograd import Variable
 
 '''torch.device'''
 device = torch.device('cpu')
 
 def KWS(RECORD_FILE_PATH, KWS_model):
-    ##################################### KWS
+
     n_mfcc = 24
     Tx = 1723
     num_class = 30
+
     ''' 모델 불러오기 '''
-    # KWS_model_name = "./model/KWS/KWS_GRU_2layer"
-    #
-    # # model, optimizer 초기화
-    # KWS_model = KWS_2GRU()  #.to(device)
-    # KWS_model_path = KWS_model_name + '_ckp.tar'
-    # checkpoint = torch.load(KWS_model_path, map_location=device)
-    # KWS_model.load_state_dict(checkpoint['model_state_dict'])
     KWS_model.eval()
 
     mfcc = feature_mfcc(RECORD_FILE_PATH, mode="KWS")  # [n_mfcc, Tx]
@@ -47,7 +41,7 @@ def KWS(RECORD_FILE_PATH, KWS_model):
     # get Extraction duration
     T_y = 1723
     mark_length = 300  # 172로 하면, Tight 하긴한데 피아노 배경 Activate 말고 학습 굿
-    left_step = int(mark_length * 0.3)
+    left_step = int(mark_length * 0.3)  # 0.5의 휴유증이 세다..
     left_x = peak_x - left_step if peak_x - left_step > 0 else 0
     right_x = left_x + mark_length
 
@@ -88,7 +82,8 @@ def KWS(RECORD_FILE_PATH, KWS_model):
     ax2.set(title='[Wav Form] Keyword Position', ylabel="Amplitude", xlabel='sec')
     plt.tight_layout()  # subplot끼리 안 곂치게
     plt.savefig("./dev_output/KWS_Keyword_Position.jpg")
-    plt.show()
+    #plt.show()
+    print("here2")
 
     return ex_FILE_PATH
 
@@ -146,7 +141,7 @@ def activation(ex_FILE_PATH):
             print(classes[prediction[i]], end=' ')
         print()
 
-    output = output.squeeze()
+    output = output.squeeze().detach().cpu().numpy()
     threshold = np.exp(output[22])
 
     # print("========= other probability ==========")
@@ -188,7 +183,7 @@ def STT(RECORD_FILE_PATH):
     plt.plot(Time, signal, Time, peak_signal)  # 같이 plot하는 아이들의 x 길이 맞춰주자!
 
     plt.savefig("./dev_output/STT_Peak_Detection.jpg")
-    plt.show()
+    #plt.show()
 
     # dev_output/STT_extractions 파일 포맷
     remove_files = os.listdir('dev_output/STT_extractions/')
@@ -223,7 +218,7 @@ def STT(RECORD_FILE_PATH):
 
         cnt = cnt + 1
     plt.savefig("./dev_output/STT_extraction_position.jpg")
-    plt.show()
+    #plt.show()
 
     print("1초씩 분리 완료")
 

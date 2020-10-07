@@ -1,18 +1,11 @@
-## Multi-label GRU model 구현
+## KWS 모델 구현 - GRU 2 layers
 # GRU layer
 ''' import libraries '''
 
-#%matplotlib inline
 import torch
 import torch.nn as nn
-import torch.nn.functional as F
-import torch.optim as optim
-from torchvision.transforms import transforms  # 1 batch = (1, 784)
-from torch.autograd import Variable
-from torch.utils.data.dataloader import DataLoader
-from matplotlib import pyplot as plt
-import numpy as np
-#from torchsummary import summary
+
+
 
 n_mfcc = 24
 Tx = 1723

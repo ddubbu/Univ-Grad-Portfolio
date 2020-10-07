@@ -1,5 +1,6 @@
-'''resnet 구현'''
+## Classifier 모델 구현 - ResNet
 
+import torch
 import torch.nn as nn
 
 n_mfcc = 24
